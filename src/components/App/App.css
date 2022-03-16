@@ -1,0 +1,18 @@
+body{
+  background-color: #ffbe0b;
+  font-family: 'Coolvetica';
+}
+
+@font-face {
+  font-family: 'Coolvetica';
+  src: url('../../fonts/coolvetica.otf');
+}
+
+h1{
+  font-size: 50px;
+}
+
+.main{
+    margin: auto;
+    text-align: center;
+}

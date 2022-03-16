@@ -1,0 +1,24 @@
+.card{
+    width: 200px;
+    height: 200px;
+    border-radius: 7px;
+    background-color: white;
+    border: solid;
+    flex: 1;
+    margin: 5px;
+    cursor: pointer;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.row{
+    display: flex;
+}
+
+.empty{
+    flex-grow: 2;
+    flex: 1;
+}
